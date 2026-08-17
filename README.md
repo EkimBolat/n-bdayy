@@ -1,1 +1,5 @@
-https://claude.ai/code/artifact/9591b1c6-5000-4e61-995a-6684ee2ec6c8
+# İyi ki Varsın 🎂
+
+Nazlı için hazırlanmış doğum günü sürprizi sayfası.
+
+**Canlı site:** https://ekimbolat.github.io/n-bdayy/
